@@ -1,4 +1,4 @@
-# C_DOS - Customized Denial of Survillence
+# C_DOS - Customized Denial of Surveillence
 
 ----- README START -----
 
