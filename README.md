@@ -1,4 +1,4 @@
-# Survillence-Denied
+# C_DOS - Customized Denial of Survillence
 
 ----- README START -----
 
