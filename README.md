@@ -6,11 +6,11 @@ This is a collection of scripts which will do the following things :
 
     #1  -> Verification of the legitimacy of the website ( Prevent phishing attacks )
     #2  -> Staying Anonymous
-            ---> Preventing / Breaking the methods of survillence
+            ---> Preventing / Breaking the methods of surveillence
     #3  -> Not being vulnerable
 
 
-Steps to create an Anti-Survillence Program
+Steps to create an Anti-Surveillence Program
 
 
     #_1  Anti-Phishing
