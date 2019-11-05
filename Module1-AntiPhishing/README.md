@@ -1,18 +1,7 @@
------ README START -----
+--- Readme For AntiPhish Module Start ---
 
 
-##--> Project M.Y.S.T.E.R.I.O.
-##--> May Your Survillence Time End : Reconfigure , Invent , Outmaneuver
-
-This is a collection of scripts which will do the following things :
-    #1  -> Verification of the legitimacy of the website ( Prevent phishing attacks )
-    #2  -> Staying Anonymous
-            ---> Preventing / Breaking the methods of survillence
-    #3  -> Not being vulnerable
-
-Steps to create an Anti-Survillence Program
-
-#_1  Anti-Phishing
+####  Anti-Phishing module
 ##--->This module will detect whether the website you have visited is a phishing website or is the website safe ?
 ##--->This module is made with the assumption that the actual company websites or the companies themselves are not compromised
         #_1.0  Prevent the hidden auto-filling of sensitive information ( Like Email Address, Card Numbers [Credit Card,etc], Mobile Numbers )
@@ -34,25 +23,10 @@ Steps to create an Anti-Survillence Program
                     ----> It will do the following steps :
                         --> Report the domains ( and if possible a DeviceScanWebpage of the device hosting the 'target website' as well ) to the actual website hosting company , the preferably all ISPs and all website hosting companies
 
-#_2  TOR with VPN
+##--->For emails : A map [ company_web ] of ( company --> services / support  / any service that givves password-reset option / any service that makes you login )
+                #   If email has been sent by anyone / any service which is not on the [ company_web ] , then the authorities will be instantly informed
+                #   The authorities can henceforth check if they sent the email
+                #   If the authorities didn't send the email , the email-id must be blacklisted by the mail service to avoid further phishing
+                #   It will be blacklisted by this program and will give a pop-up that the email is suspicious
 
-#_3  Noisy => Redundant requests with your own request
-
-#_4  Webcam shutdown OR Just send random images instead of the webcam output
-
-#_5  All kind of audio input shutdown OR Just send random audio
-
-#_6  GPS Location Change periodically
-
-#_7  MAC adddress change periodically
-
-#_8  Deep Scan for any backdoor on the device
-
-#####   These are extreme level cases :   #####
-##--> Manipulating your typing / keystrokes ( so that not they can't track you via your typing patterns )
-##--> Manipulating the way you use the mouse ( same reason )
-##--> Manipulating the networks your device connects to
-##--> Manipulate your digital footprint ( Needs written conformation with signature or logo )
-
-
------ README END -----
+--- Readme For AntiPhish Module End ---
