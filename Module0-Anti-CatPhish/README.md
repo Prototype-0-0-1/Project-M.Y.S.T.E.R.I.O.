@@ -26,7 +26,7 @@
                     ##  The static data might give an apprroximate if the person is the same person or a cat phished acccount
 
 ## 3 -> Bad Cop way : 
-            #   A chatbot to social engineer the user's location and also find more static data
+            #   A chatbot to social engineer the attacker who catphished the account and also find more static data. Then cross-verification of the data with the real user
 
 
 --- Readme For CatPhish Module End ---

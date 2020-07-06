@@ -9,7 +9,7 @@
 
         #_1.0  Prevent the hidden auto-filling of sensitive information ( Like Email Address, Card Numbers [Credit Card,etc], Mobile Numbers )
 
-        #_1.1  OSNIT investigation
+        #_1.1  OSNIT investigation of phishing web-page. Will also include indentification of scam.
 
         #_1.2  Database of all domains of the website       <-- This will be created gradually as the progarm goes on and new websites are hosted  -->
 
