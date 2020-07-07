@@ -1,9 +1,9 @@
 ----- README START -----
 
 
-# --> Project M.Y.S.T.E.R.I.O.  #
+# Project M.Y.S.T.E.R.I.O.  #
 
-## Project Mysterio : May Your Surveillence Time End - Reconfigure , Invent , Outmaneuver ##
+### Project Mysterio : May Your Surveillence Time End - Reconfigure , Invent , Outmaneuver ###
 
     -- An anti-surveillence program which will try to remove the human-type of vulnerability on the internet.
 
@@ -14,7 +14,7 @@
     -- This project also aims at providing anonimity while on the internet. 
 
 
-## -- This project will have atleast 9 modules : ##
+##  This project will have atleast 9 modules : ##
 
 
     -- 0- Anti-Catphish : This module will check if the individual has been catphished / If there some fake account of the individual out on the internet
@@ -38,10 +38,10 @@
     -- x -Extreme Conditions Kit : This kit will be the End Game scenario for ensuring anonimity of a user. The minute details like mouse movement which is actually analzyed by the NoCaptcha ReCaptcha will be manipulated. Another service in this kit would be manipulating the keystrokes (typing patterns/conventions), delay between keystrokes, etc. Even a pipl like massive search for the user's digital footprint.
 
 ## 
--- Modules like Anti-catphish & Anti-phishing will relieve some factor of the human vulnerability. Meanwhile other modules can be used to anonimize an individual.
+## Modules like Anti-catphish & Anti-phishing will relieve some factor of the human vulnerability. Meanwhile other modules can be used to anonimize an individual. ##
 ##
 
-##-- Modules to be added can be : ##
+## Modules to be added can be : ##
 
     -- 1- Call Protect : If someone asks for sensitive information on a phone call, the receiver of the call will be notified and caller of the phone call will be reported ( could consider conformation from the the receiver)
 
