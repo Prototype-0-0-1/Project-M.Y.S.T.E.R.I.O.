@@ -1,7 +1,7 @@
 ----- README START -----
 
 
-#--> Project M.Y.S.T.E.R.I.O.  #
+# --> Project M.Y.S.T.E.R.I.O.  #
 
 ## Project Mysterio : May Your Surveillence Time End - Reconfigure , Invent , Outmaneuver ##
 
